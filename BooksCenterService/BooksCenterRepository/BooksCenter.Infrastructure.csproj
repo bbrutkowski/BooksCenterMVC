@@ -51,9 +51,10 @@
     <Compile Include="AuthorRepository.cs" />
     <Compile Include="CustomerRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SQL\SQLScript.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="SQL\SQLScript.sql" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BooksCenterService\BooksCenter.Domain.csproj">
       <Project>{E1F5F953-2A66-46D2-8922-CC0874D594D6}</Project>
