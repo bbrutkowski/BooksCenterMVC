@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksCenterService", "BooksCenterService\BooksCenterService.csproj", "{E1F5F953-2A66-46D2-8922-CC0874D594D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksCenter.Domain", "BooksCenterService\BooksCenter.Domain.csproj", "{E1F5F953-2A66-46D2-8922-CC0874D594D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksCenterRepository", "BooksCenterRepository\BooksCenterRepository.csproj", "{908E2403-8B0B-4497-AE6F-828F99A747C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksCenter.Infrastructure", "BooksCenterRepository\BooksCenter.Infrastructure.csproj", "{908E2403-8B0B-4497-AE6F-828F99A747C8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Backend", "Backend", "{A867C868-DA94-4120-86EE-68D3822208A2}"
 EndProject
